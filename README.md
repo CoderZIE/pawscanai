@@ -14,6 +14,7 @@
    - Despite these settings, the model did not yield satisfactory results.
 
 3. **Random Forest Classifier:**
+   - Achieved an accuracy of 82.83% comparable to highest accuracy of 84.179%.
    - Implemented from scikit-learn, which provided the best results among the methods tested.
    - Random forests are ensemble methods that combine multiple decision trees to improve accuracy and robustness.
 
